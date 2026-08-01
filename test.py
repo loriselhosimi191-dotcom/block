@@ -1,13 +1,4 @@
 #!/usr/bin/env python3
-string
-bsjsn
-. vxnx
-
-xgngnirtssssssgnirtsssssssssssssgnirtssssssgnirtssssssssssssssgnirtsgngnirtssssssgnirtsssssssssssssgnirtssssssgnirtssssssssssssssgnirtsgngnirtssssssgnirtsssssssssssssgnirtssssssgnirtssssssssssssssgnirtsgngnirtmdx  xm
-
-
-
-
 
 
 BaseException
