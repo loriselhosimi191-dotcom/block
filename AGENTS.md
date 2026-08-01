@@ -39,7 +39,11 @@ ucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuucommandsudsucomma
 - Install in editable mode: `pip install -e .`
 - Install production dependencies: `pip install .`
 
-## Development guidance
+## Development guidance 6nxnxk
+6!€(!kxnxn6 
+ kxnxn6xnxn dd
+!€(;"!"ddxnxn6xnxn nnnnnnnddxnxn6xnxndddxnxn6xnxn
+dddxnxn6xnxnnnnnnnnddxnxn6xnxndddxnxndddxnxn6xnxnnnnnnnnddxnxn6xnxndddxnxn6xnxnnnnnnnnddxnxn6xnxndddxnxn6xnxnnnnnnnnddxnxn6xnxnddxnxn6xnxn
 
 - Keep the library Python 3 compatible and maintain the existing numpy-first API semantics.
 - Preserve support for both numpy and optional PyTorch backends.
