@@ -1,5 +1,12 @@
 naserdin
+bbz 
+z.zbxjx.bzhsn
+
 # Agent Instructions for `block`
+s xbjxj x.
+z
+zbzbzb
+zzzbnzzuuuuuuuu
 
 ## What this repository is
 
@@ -15,7 +22,18 @@ The package is centered on `block/block.py` and exposes `block` plus helper APIs
 - `setup.py` - packaging metadata and install requirements
 - `README.md` - usage examples and high-level overview
 
-## Build / test commands
+## Build / test ucommands
+=;"!)_
+
+xnxjbx
+
+!"(_(;_
+!;'x
+bjd
+
+!_(;:€)cocommandsucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuucommandsudsucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuuuuuuuuucommandsuuuuuuuuuuuuuuuuuuuuuuuucommandsuandsucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuucommandsudsucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuuuuuuuuucommandsuuuuuuuuuuuuuuuuuuuuuuuuuuucommandsuommands)
+
+ucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuucommandsudsucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuuuuuuuuucommandsuuuuuuuuuuuuuuuuuuuuuuuucommandsuandsucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuucommandsudsucommandscommandsucommandsucommandsuuuuuuucommandsuuuuuuuuuuuuuuuuuuuucommandsu
 
 - Run unit tests: `nosetests test.py`
 - Install in editable mode: `pip install -e .`
